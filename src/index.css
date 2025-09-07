@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+
+html {
+  @apply bg-white text-black transition-colors duration-300;
+}
+
+html.dark {
+  @apply bg-gray-900 text-white;
+}
+
+
+
+
+ul li a.active{
+    color: var(--primaryColor);
+}
+
+
+:root {
+    
+  --primaryColor: #1cb14e;
+  
+
+}
