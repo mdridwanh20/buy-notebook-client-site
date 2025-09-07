@@ -1,12 +1,35 @@
-# React + Vite
+# 📒 Notebook Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce website for selling beautifully designed notebooks, planners, and stationery.  
+This project showcases featured categories, products, and a clean shopping experience with a focus on creativity and style.
 
-Currently, two official plugins are available:
+![Notebook Store Preview](./screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View Website](https://your-live-link.com)  
+
+---
+
+## 🚀 Features
+
+- **Hero Section** – Eye-catching banner to promote products with CTA buttons.  
+- **Featured Categories** – Browse by category (Electronics, Accessories, Clothing, Book).  
+- **Product Listings** – Showcases products with name, price, discounts, and details button.  
+- **Trusted By** – Logos of trusted companies and integrations.  
+- **Footer Section** – Contains About Us, Customer Service, Quick Links, and Social Media links.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js / Next.js (or plain React if not using Next)  
+- **Styling:** Tailwind CSS  
+- **Icons:** React Icons  
+- **Deployment:** Vercel / Netlify / Any Hosting  
+
+---
+
+## 📂 Project Structure
